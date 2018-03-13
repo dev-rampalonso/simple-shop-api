@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PWD": "Mlm3t80mm",
+    "JWT_KEY": "secret"
+  }
+}
